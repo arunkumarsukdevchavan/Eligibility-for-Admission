@@ -72,6 +72,3 @@ namespace EngineeringAdmission
 ## Result:
 Thus a C# program to find the eligibility for admission to an engineering course is written and executed.
 
-
-
-## Result:
