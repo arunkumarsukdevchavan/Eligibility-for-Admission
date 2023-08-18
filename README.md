@@ -1,5 +1,3 @@
-![exp01](https://github.com/arunkumarsukdevchavan/Eligibility-for-Admission/assets/118343978/de03a6c5-5328-48b5-afb3-07a58b2ff407)# Eligibility-for-Admission
-
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course
 
